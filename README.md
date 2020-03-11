@@ -1,2 +1,1 @@
-# corona
-Analysis of corona virus 
+# corona Analysis of corona virus 
